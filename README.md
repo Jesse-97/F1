@@ -1,16 +1,43 @@
-# React + Vite
+# 🏎️ F1 Interactive Hub: 2026 Edition
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://media.formula1.com/content/dam/fom-website/manual/Misc/2026/F1_2026_CAR_RENDER.jpg" width="800" alt="F1 2026 Car View">
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <img src="https://img.shields.io/badge/NextGen-2026-e10600?style=for-the-badge&logo=formula1&logoColor=white" alt="F1 2026">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚦 Overview
+**F1 Interactive Hub** is a high-performance web experience built for the 2026 Formula 1 season. It features a real-time race telemetry dashboard, interactive 3D circuit maps, and a cinematic driver lineup gallery with career stats.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🌟 Key Features
+- **Live Telemetry Dashboard**: Real-time sector times (S1, S2, S3) and interval deltas.
+- **3D Track Visualization**: Interactive Monaco circuit map rendered with **React Three Fiber**.
+- **Driver "Broadcast" Grid**: High-quality driver cutouts with hover-reveal career stats.
+- **2026 Grid Ready**: Includes new entries from **Audi** and **Cadillac**.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+| Role | Technology |
+| :--- | :--- |
+| **Framework** | React 18 + Vite |
+| **Styling** | Tailwind CSS v4.0 (Modern Engine) |
+| **Animations** | Framer Motion |
+| **3D Engine** | React Three Fiber (Three.js) |
+| **Icons** | Lucide React |
+
+---
+
+## 🏎️ Deployment & Setup
+
+### 1. Clone the Paddock
+```bash
+git clone [https://github.com/YOUR_USERNAME/f1-interactive.git](https://github.com/YOUR_USERNAME/f1-interactive.git)
+cd f1-interactive
