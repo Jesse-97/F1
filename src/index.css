@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+/* F1 Specific Styles */
+@layer base {
+  body {
+    background-color: #0b0b0b;
+    color: white;
+    font-family: sans-serif;
+    overflow-x: hidden;
+  }
+}
+
+/* Custom "Racing" Utilities */
+@utility f1-skew {
+  transform: skewX(-15deg);
+}
+
+@utility text-outline {
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.3);
+  color: transparent;
+}
+
+@utility scanline {
+  background: linear-gradient(
+    to bottom,
+    transparent 50%,
+    rgba(255, 255, 255, 0.05) 50%
+  );
+  background-size: 100% 4px;
+  animation: scan 10s linear infinite;
+}
+
+@keyframes scan {
+  from { background-position: 0 0; }
+  to { background-position: 0 100%; }
+}
