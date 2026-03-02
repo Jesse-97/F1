@@ -1,4 +1,4 @@
-# 🏎️ F1 Interactive Hub: 2026 Edition
+# F1 Hub 2026
 
 <p align="center">
   <img src="https://media.formula1.com/content/dam/fom-website/manual/Misc/2026/F1_2026_CAR_RENDER.jpg" width="800" alt="F1 2026 Car View">
@@ -20,7 +20,6 @@
 - **Live Telemetry Dashboard**: Real-time sector times (S1, S2, S3) and interval deltas.
 - **3D Track Visualization**: Interactive Monaco circuit map rendered with **React Three Fiber**.
 - **Driver "Broadcast" Grid**: High-quality driver cutouts with hover-reveal career stats.
-- **2026 Grid Ready**: Includes new entries from **Audi** and **Cadillac**.
 
 ---
 
@@ -35,9 +34,3 @@
 
 ---
 
-## 🏎️ Deployment & Setup
-
-### 1. Clone the Paddock
-```bash
-git clone [https://github.com/YOUR_USERNAME/f1-interactive.git](https://github.com/YOUR_USERNAME/f1-interactive.git)
-cd f1-interactive
