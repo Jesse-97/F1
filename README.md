@@ -1,7 +1,7 @@
 # F1 Hub 2026
 
 <p align="center">
-  <img src="https://i.vimeocdn.com/video/669065538-41fafaad781845ba3a564d44ea530cd5a24597b6f20f3b274b61833f401256d2-d?f=webp">
+  <img src="https://www.pngplay.com/wp-content/uploads/13/F1-Ferrari-PNG-Free-File-Download.png">
 </p>
 
 <p align="center">
