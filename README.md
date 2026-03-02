@@ -1,7 +1,7 @@
 # F1 Hub 2026
 
 <p align="center">
-  <img src="https://media.formula1.com/content/dam/fom-website/manual/Misc/2026/F1_2026_CAR_RENDER.jpg" width="800" alt="F1 2026 Car View">
+  <img src="https://i.vimeocdn.com/video/669065538-41fafaad781845ba3a564d44ea530cd5a24597b6f20f3b274b61833f401256d2-d?f=webp">
 </p>
 
 <p align="center">
